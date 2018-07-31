@@ -1,4 +1,4 @@
-num=15
+num=2
 if num<0:
    print("enter a postive number")
 else:
